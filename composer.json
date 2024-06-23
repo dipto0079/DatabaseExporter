@@ -17,11 +17,5 @@
             "App\\": "app/",
             "dipto0079\\DatabaseExporter\\": "packages/dipto0079/DatabaseExporter/src/"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dipto0079/DatabaseExporter"
-        }
-    ]
+    }
 }
